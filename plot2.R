@@ -1,3 +1,14 @@
+#=====================================================================
+#Subrutine: plot2.R
+#Author: IR
+#Date: 12/10/2014
+#Revision: 0
+#Notes: This script assumes you have the relevant data downloaded 
+# in your local drive
+# For further information about the purpose of the code,
+# please check the README.md
+#====================================================================
+
 # Set working directory
 #setwd("./Data_Science_Coursera/Scripts/4_ExpData")
 # Load data
